@@ -1,4 +1,10 @@
-# N-Queens Solver
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/Deepthi2225/Quantum-N-Queens)
+![Repo Size](https://img.shields.io/github/repo-size/Deepthi2225/Quantum-N-Queens)
+![Stars](https://img.shields.io/github/stars/Deepthi2225/Quantum-N-Queens?style=social)
+
+# Quantum N-Queens Solver
 
 ## Overview
 This project is an implementation of the **N-Queens Problem**, a classic combinatorial problem in which the goal is to place **N queens** on an **N × N chessboard** such that no two queens threaten each other. This means:
